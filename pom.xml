@@ -25,6 +25,7 @@
 		<module>backend</module>
 		<module>react-frontend</module>
 		<module>vue-frontend</module>
+		<module>angular-frontend</module>
 	</modules>
 	<scm>
 		<connection/>
